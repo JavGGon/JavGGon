@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Estudiante de la UPM.
 
 <!--
