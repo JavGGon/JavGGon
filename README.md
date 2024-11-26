@@ -1,4 +1,5 @@
-Estudiante de la UPM.
+Graduado en Matemáticas e Informática
+Estudiante Máster IA Aplicada UC3M
 
 <!--
 **JavGGon/JavGGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
